@@ -1,0 +1,45 @@
+h1 {
+    text-align: left;
+    color: #7403b6;
+}
+
+img {
+    border-radius: 30%;
+}
+
+body {
+    background-color: black;
+
+    color: white;
+}
+
+image {
+    margin-bottom: 20%;
+}
+
+.rectangle {
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    margin-top: 0%;
+    padding-bottom: 5%;
+
+}
+
+.btn {
+    color: rgb(230, 69, 48);
+    background-color: bisque
+    
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+table {
+    color: #030303;
+    border: 1cm;
+    border-color: rgb(18, 128, 224);
+    background-color: azure;
+}
